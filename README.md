@@ -1,2 +1,3 @@
-# quest-jp
-Unity files for my VR app
+# Aprender japonés en VR
+### Log 
+3/05/23: Importación de proyecto base configurado para AR pasthrough del quest. 
